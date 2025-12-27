@@ -25,6 +25,32 @@ The analysis uses date-aligned visualizations, statistical analysis, and histori
 
 ---
 
+## 📊 Key Features
+
+1. Comprehensive Visualizations
+   - Price comparison charts with dual timelines
+   - Normalized performance analysis
+   - Statistical analysis with volatility bands
+   - Moving average convergence/divergence
+   - Daily and cumulative returns tracking
+
+2. Statistical Analysis
+   - 20-day moving averages
+   - ±2σ volatility bands
+   - Annualized volatility comparison
+   - Maximum drawdown analysis
+   - Recovery trajectory modeling
+   
+3. Trading Strategies
+   - Quarter-by-quarter 2026 outlook
+   - Sector rotation recommendations
+   - Risk management framework
+   - Position sizing guidelines
+   - Entry/exit strategies
+
+---
+
+
 ## 🚀 Quick Start
 
 ### **Option 1: View Online**
