@@ -1,0 +1,14 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+yfinance>=0.2.0
+jupyter>=1.0.0
+
+# Optional but recommended
+seaborn>=0.12.0
+scipy>=1.9.0
+plotly>=5.11.0
+
+# For reproducibility
+python-dateutil>=2.8.0

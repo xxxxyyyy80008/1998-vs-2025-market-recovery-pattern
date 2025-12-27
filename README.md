@@ -40,7 +40,7 @@ The analysis uses date-aligned visualizations, statistical analysis, and histori
    - Annualized volatility comparison
    - Maximum drawdown analysis
    - Recovery trajectory modeling
-   
+
 3. Trading Strategies
    - Quarter-by-quarter 2026 outlook
    - Sector rotation recommendations
@@ -129,3 +129,20 @@ The analysis includes 8 comprehensive visualizations:
 
 - Environment: Jupyter Notebook
 - Data Source: Yahoo Finance (S&P 500: ^GSPC)
+
+
+## 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+**Citation**
+
+```bibtex
+@misc{sp500recovery2025,
+  author = {Your Name},
+  title = {S&P 500 Recovery Pattern Analysis: 1998-99 vs 2025-26},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/yourusername/sp500-recovery-pattern-analysis}
+}
+```
