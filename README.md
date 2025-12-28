@@ -62,19 +62,19 @@ When 2025 data is incomplete:
 - Separate timelines for each crisis period
 - Crisis point markers clearly indicated
 - Projected period shading (if applicable)
-![](images/visualization_1_price_comparison.png)
 
 **Key Elements**:
 - Date format: YYYY-MM with 3-month intervals
 - Crisis point marked with vertical dashed line
 - Actual vs projected data distinguished by opacity/shading
 
+![](images/visualization_1_price_comparison.png)
+
 #### **Visualization 2: Normalized Overlay Comparison**
 - Single chart with both series overlaid
 - Crisis points aligned to 0% baseline
 - Percentage returns from crisis point
 - Secondary x-axis showing 2025 equivalent dates
-![](images/visualization_2_normalized.png)
 
 **Features**:
 - 1998 series: Blue line, circular markers
@@ -83,18 +83,21 @@ When 2025 data is incomplete:
 - Milestone markers every 6 months
 - Positive/negative territory shading
 
+![](images/visualization_2_normalized.png)
+
 #### **Visualization 3: Dual Y-Axis Timeline Comparison**
 - Single chart with independent Y-axes for each period
 - Left axis: 1998 prices ($)
 - Right axis: 2025 prices ($)
 - Direct visual comparison of recovery magnitude
-![](images/visualization_3_dual_timeline.png)
 
 **Annotations Include**:
 - Starting prices and returns for both periods
 - Current position marker (2025)
 - Performance comparison box
 - Month interval markers (6M, 12M, 18M, 24M)
+
+![](images/visualization_3_dual_timeline.png)
 
 ### **Statistical Analysis**
 
@@ -103,7 +106,6 @@ When 2025 data is incomplete:
 - 20-day moving average for both periods
 - ±2σ (standard deviation) volatility bands
 - Bollinger Band-style analysis
-![](images/visualization_4_statistical.png)
 
 **Statistical Metrics Displayed**:
 - Average price comparison
@@ -112,18 +114,14 @@ When 2025 data is incomplete:
 - Current sigma distance from mean
 - Band width as percentage of price
 
-**Key Insights Box**:
-- Volatility comparison (more/less/similar)
-- Price position vs moving average
-- Sigma status (high volatility/stabilizing/normal)
-- Data coverage percentage
+
+![](images/visualization_4_statistical.png)
 
 #### **Visualization 5: Daily Returns Distribution**
 - Histogram comparison (1998 vs 2025)
 - Mean return marked with vertical line
 - Zero-line reference
 - Frequency distribution of daily percentage changes
-![](images/visualization_5_daily_returns.png)
 
 **Metrics**:
 - Mean daily return
@@ -131,17 +129,20 @@ When 2025 data is incomplete:
 - Distribution shape comparison
 - Outlier identification
 
+![](images/visualization_5_daily_returns.png)
+
 #### **Visualization 6: Cumulative Returns**
 - Progressive return tracking from crisis point
 - Compounded daily returns
 - Zero-line baseline reference
 - Time-series comparison
-![](images/visualization_6_cumulative_return.png)
 
 **Shows**:
 - Total cumulative gain/loss over time
 - Relative performance trajectory
 - Recovery acceleration patterns
+
+![](images/visualization_6_cumulative_return.png)
 
 ### **Technical Analysis**
 
@@ -150,7 +151,6 @@ When 2025 data is incomplete:
 - Price crossover identification
 - Trend signals (bullish/bearish)
 - Support/resistance level visualization
-![](images/visualization_7_moving_averages.png)
 
 **Technical Signals**:
 - 20-MA above 50-MA: Bullish trend
@@ -163,17 +163,20 @@ When 2025 data is incomplete:
 - Trend status assessment
 - Days until MA calculations become meaningful
 
+![](images/visualization_7_moving_averages.png)
+
 #### **Visualization 8: Rolling Volatility (20-Day Window)**
 - Annualized volatility over time
 - Volatility spikes identification
 - Market stabilization tracking
 - 20% high volatility reference line
-![](images/visualization_8_rolling_volatility.png)
 
 **Insights**:
 - Volatility clustering periods
 - Market calm vs turbulent phases
 - Recovery stability assessment
+
+![](images/visualization_8_rolling_volatility.png)
 
 #### **Visualization 9: Risk-Reward Analysis**
 Two-part visualization:
@@ -193,6 +196,7 @@ Two-part visualization:
   - Aggressive Entry
   - Leveraged 1.5x
 - Optimal zone highlighted (8-18% risk, 15-35% return)
+
 ![](images/visualization_9_risk_analysis.png)
 
 #### **Visualization 10: Price Projection Chart**
@@ -200,7 +204,6 @@ Two-part visualization:
 - 2025 actual + projected on right Y-axis
 - Projection methodology clearly indicated
 - Milestone markers (6M, 12M, 18M, 24M)
-![](images/visualization_10_projections.png)
 
 **Projection Method**:
 1. Use 1998 pattern as template
@@ -208,12 +211,8 @@ Two-part visualization:
 3. Apply growth rates from historical pattern
 4. Mark transition from actual to projected data
 
-**Key Information Boxes**:
-- Current status (price, return, days elapsed)
-- Projected end state (price, return, expected gain)
-- Days/months remaining
-- 1998 benchmark comparison
-- Projection methodology note
+![](images/visualization_10_projections.png)
+
 
 ### **Comprehensive Summary**
 
@@ -238,7 +237,7 @@ Two-part visualization:
    - 1998 vs 2025 comparison
    - Overall pace assessment
 
-![](images/images/images/visualization_11_summary.png)
+![](images/visualization_11_summary.png)
 
 ---
 
