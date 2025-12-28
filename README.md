@@ -217,19 +217,23 @@ Two-part visualization:
 ### **Comprehensive Summary**
 
 #### **Visualization 11: Multi-Panel Analysis Dashboard**
+
 9-panel grid layout providing holistic view:
 
 **Top Row (Metrics)**:
+
 1. **1998 Crisis Metrics**: Crisis/recovery prices, total return, duration, volatility, max drawdown
 2. **2025 Crisis Metrics**: Current prices, return to date, duration, volatility, max drawdown
 3. **Performance Comparison**: Verdict (outperforming/tracking/underperforming), progress percentage
 
 **Middle Row (Returns)**:
+
 4. **Normalized Returns**: Percentage change from crisis point, aligned timelines
 5. **Cumulative Returns**: Compounded gains over time with area fill
 6. **30-Day Rolling Volatility**: Annualized volatility comparison with 20% reference line
 
 **Bottom Row (Risk Analysis)**:
+
 7. **Drawdown from Peak**: Maximum loss from running high, -10%/-20% reference lines
 8. **Recovery Speed Table**: 
    - Milestone achievements (+5%, +10%, +15%, +20%)
