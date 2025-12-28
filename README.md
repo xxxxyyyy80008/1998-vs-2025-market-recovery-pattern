@@ -59,7 +59,7 @@ When 2025 data is incomplete:
 - Separate timelines for each crisis period
 - Crisis point markers clearly indicated
 - Projected period shading (if applicable)
-[![x](../images/visualization_1_price_comparison.png)]()
+![](images/visualization_1_price_comparison.png)
 
 **Key Elements**:
 - Date format: YYYY-MM with 3-month intervals
@@ -71,6 +71,7 @@ When 2025 data is incomplete:
 - Crisis points aligned to 0% baseline
 - Percentage returns from crisis point
 - Secondary x-axis showing 2025 equivalent dates
+![](images/images/visualization_2_normalized.png)
 
 **Features**:
 - 1998 series: Blue line, circular markers
@@ -84,6 +85,7 @@ When 2025 data is incomplete:
 - Left axis: 1998 prices ($)
 - Right axis: 2025 prices ($)
 - Direct visual comparison of recovery magnitude
+![](images/images/visualization_3_dual_timeline.png)
 
 **Annotations Include**:
 - Starting prices and returns for both periods
@@ -98,6 +100,7 @@ When 2025 data is incomplete:
 - 20-day moving average for both periods
 - ±2σ (standard deviation) volatility bands
 - Bollinger Band-style analysis
+![](images/images/visualization_4_statistical.png)
 
 **Statistical Metrics Displayed**:
 - Average price comparison
@@ -117,6 +120,7 @@ When 2025 data is incomplete:
 - Mean return marked with vertical line
 - Zero-line reference
 - Frequency distribution of daily percentage changes
+![](images/visualization_5_daily_returns.png)
 
 **Metrics**:
 - Mean daily return
@@ -129,6 +133,7 @@ When 2025 data is incomplete:
 - Compounded daily returns
 - Zero-line baseline reference
 - Time-series comparison
+![](images/visualization_6_cumulative_return.png)
 
 **Shows**:
 - Total cumulative gain/loss over time
@@ -142,6 +147,7 @@ When 2025 data is incomplete:
 - Price crossover identification
 - Trend signals (bullish/bearish)
 - Support/resistance level visualization
+![](images/visualization_7_moving_averages.png)
 
 **Technical Signals**:
 - 20-MA above 50-MA: Bullish trend
@@ -159,6 +165,7 @@ When 2025 data is incomplete:
 - Volatility spikes identification
 - Market stabilization tracking
 - 20% high volatility reference line
+![](images/visualization_8_rolling_volatility.png)
 
 **Insights**:
 - Volatility clustering periods
@@ -183,12 +190,14 @@ Two-part visualization:
   - Aggressive Entry
   - Leveraged 1.5x
 - Optimal zone highlighted (8-18% risk, 15-35% return)
+![](images/visualization_9_risk_analysis.png)
 
 #### **Visualization 10: Price Projection Chart**
 - Complete 1998 recovery on left Y-axis
 - 2025 actual + projected on right Y-axis
 - Projection methodology clearly indicated
 - Milestone markers (6M, 12M, 18M, 24M)
+![](images/visualization_10_projections.png)
 
 **Projection Method**:
 1. Use 1998 pattern as template
@@ -225,6 +234,8 @@ Two-part visualization:
    - Days to reach each milestone
    - 1998 vs 2025 comparison
    - Overall pace assessment
+
+![](images/images/images/visualization_11_summary.png)
 
 ---
 
